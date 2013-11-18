@@ -1,4 +1,13 @@
 {
-    "name": "mediasuitenz/yiiEClientScript",
-    "version": "1.0.0"
+    "name": "mediasuitenz/yii-eclientscript",
+    "description": "Extension to improve yiis native client script module",
+    "authors": [
+        {
+            "name": "Muayyad Alsadi",
+            "email": "your@name.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
